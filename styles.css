@@ -15,3 +15,8 @@ p {
 header > ul {
   margin-left: 50px;
 }
+.div {
+  border: 2px solid red;
+  width: 200px;
+  height: 190px;
+}
